@@ -17,6 +17,11 @@ Welcome to the VLLM-IL repository!
    ```bash
    git clone https://github.com/Czi24/VLLM-IL.git
 
-# Acknowledgement
+   
+## License
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
+
+
+## Acknowledgement
 We extend our sincere gratitude to InternLM and InternStudio at the Shanghai Artificial Intelligence Laboratory for their invaluable technical guidance and robust computing power support for our projects
 
