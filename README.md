@@ -16,3 +16,7 @@ Welcome to the VLLM-IL repository!
 1. Clone the repository:
    ```bash
    git clone https://github.com/Czi24/VLLM-IL.git
+
+# Acknowledgement
+We extend our sincere gratitude to InternLM and InternStudio at the Shanghai Artificial Intelligence Laboratory for their invaluable technical guidance and robust computing power support for our projects
+
